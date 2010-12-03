@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: EzGz
- * Plugin URI: http://jamessocol.com/projects/ezgz.php
- * Description: EzGz enables gzip-compression if the visitor's browser can handle it. Uses the PHP ob_gzhandler() callback.
- * Version: 1.0.0
+ * Plugin Name: WordPress Gzip Compression
+ * Plugin URI: http://tribulant.com
+ * Description: Enables gzip-compression if the visitor's browser can handle it. This will speed up your WordPress website drastically and reduces bandwidth usage as well. Uses the PHP ob_gzhandler() callback.
+ * Version: 1.0
  * Author: James Socol
  * Author URI: http://jamessocol.com/
  */

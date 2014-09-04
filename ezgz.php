@@ -32,9 +32,8 @@ THE SOFTWARE.
 
 */
 
-add_action('init','ezgz_buffer');
+add_action('init' ,'ezgz_buffer');
 
-function ezgz_buffer ()
-{
+function ezgz_buffer () {
 	ob_start('ob_gzhandler');
 }

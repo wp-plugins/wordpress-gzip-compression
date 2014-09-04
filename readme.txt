@@ -1,9 +1,9 @@
 === Plugin Name ===
-Contributors: James Socol, Antonie Potgieter
+Contributors: contrid, James Socol
 Donate link: http://jamessocol.com/projects/ezgz.php
 Tags: Gzip, Compression, Speed, Optimization, ob_gzhandler
 Requires at least: 3.0
-Tested up to: 3.0.2
+Tested up to: 4.0
 Stable tag: 1.0
 
 Enables gzip-compression if the visitor's browser can handle it. This will speed up your WordPress website drastically and reduces bandwidth usage as well. Uses the PHP ob_gzhandler() callback.
